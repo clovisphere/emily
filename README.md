@@ -7,7 +7,7 @@
 ╚══════╝╚═╝     ╚═╝╚═╝╚══════╝╚═╝   
 ```
 
-Exploring [Express](https://expressjs.com) by building a dummy REST API with [Bun](https://bun.sh), TypeScript, and MongoDB — with the help of [Claude](https://claude.ai). 🚀
+Exploring [Express](https://expressjs.com) by building a dummy REST API with [Bun](https://bun.sh), [TypeScript](https://www.typescriptlang.org) and [MongoDB](https://mongodb.com) — with the help of [Claude](https://claude.ai). 🚀
 
 > 💡 Inspired by [Code with Antonio](https://www.youtube.com/watch?v=b8ZUb_Okxro).
 
